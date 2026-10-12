@@ -1,5 +1,5 @@
 <section
-    class="relative min-h-screen overflow-hidden transition-colors duration-500 bg-white  text-neutral-950 dark:bg-neutral-950 dark:text-neutral-50"
+    class="relative min-h-screen overflow-hidden transition-colors duration-500 bg-white text-neutral-950 dark:bg-neutral-950 dark:text-neutral-50"
 >
 
     <div
@@ -62,7 +62,7 @@
                 @if($pageBanner?->description)
 
                     <p
-                        class="max-w-xl mt-8 text-lg leading-8  text-neutral-600 dark:text-neutral-400"
+                        class="max-w-xl mt-8 text-lg leading-8 text-neutral-600 dark:text-neutral-400"
                     >
                         {{ $pageBanner->description }}
                     </p>
@@ -187,9 +187,9 @@
                     >
 
                         <span
-                            class="text-sm  text-neutral-400 dark:text-neutral-500"
+                            class="text-sm text-neutral-400 dark:text-neutral-500"
                         >
-                            Your image
+                            Hello, I'm Roshan. A Laravel Developer.
                         </span>
 
                     </div>
@@ -207,7 +207,7 @@
         Scroll indicator
     ================================================================= --}}
     <div
-        class="absolute hidden -translate-x-1/2  bottom-8 left-1/2 md:block"
+        class="absolute hidden -translate-x-1/2 bottom-8 left-1/2 md:block"
     >
 
         <a
