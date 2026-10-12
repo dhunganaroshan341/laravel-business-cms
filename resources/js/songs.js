@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                     <span class="
                                         text-neutral-400
                                     ">
-                                        ↗
+                                          ♪
                                     </span>
 
                                 </button>

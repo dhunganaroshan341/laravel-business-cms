@@ -1,16 +1,32 @@
 {
+  "_bootstrap-lfZF4DQU.js": {
+    "file": "assets/bootstrap-lfZF4DQU.js",
+    "name": "bootstrap"
+  },
   "resources/css/app.css": {
-    "file": "assets/app-CCMSZJ_O.css",
+    "file": "assets/app-DN5Pr0QI.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
   "resources/js/app.js": {
-    "file": "assets/app-C-w_oU_I.js",
+    "file": "assets/app-tMMPDOCx.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true,
+    "imports": [
+      "_bootstrap-lfZF4DQU.js"
+    ],
     "css": [
       "assets/app-CIgf0F6L.css"
+    ]
+  },
+  "resources/js/songs.js": {
+    "file": "assets/songs-B3I-2VxS.js",
+    "name": "songs",
+    "src": "resources/js/songs.js",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap-lfZF4DQU.js"
     ]
   }
 }

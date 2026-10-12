@@ -213,7 +213,7 @@
                             <span
                                 class="transition-transform duration-300 group-hover:translate-x-1"
                             >
-                                ↗
+                                ♪
                             </span>
 
                         </a>
